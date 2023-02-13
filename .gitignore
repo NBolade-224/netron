@@ -2,7 +2,6 @@
 .DS_Store?
 .nyc_output/*
 coverage/*
-dist/*
 node_modules/*
 third_party/*
 package-lock.json
