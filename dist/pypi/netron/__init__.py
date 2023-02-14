@@ -4,12 +4,12 @@ import argparse
 import sys
 import os
 
-from .server import start
-from .server import stop
-from .server import status
-from .server import wait
-from .server import serve
-from .server import __version__
+from server import start
+from server import stop
+from server import status
+from server import wait
+from server import serve
+from server import __version__
 
 def main():
     ''' main entry point '''
